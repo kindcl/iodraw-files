@@ -105,9 +105,6 @@
         <mxCell id="AqKgQ2D0N7JEStCCrNbU-1" value="方法区：档案室" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="1090" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AqKgQ2D0N7JEStCCrNbU-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AqKgQ2D0N7JEStCCrNbU-2" target="AqKgQ2D0N7JEStCCrNbU-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="AqKgQ2D0N7JEStCCrNbU-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="243.5" y="1132.5" width="37.75" height="25" as="geometry" />
         </mxCell>
@@ -136,7 +133,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="530" y="1060" />
-              <mxPoint x="217" y="1060" />
+              <mxPoint x="260" y="1060" />
+              <mxPoint x="260" y="1133" />
             </Array>
           </mxGeometry>
         </mxCell>
