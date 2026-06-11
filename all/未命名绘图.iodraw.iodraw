@@ -85,7 +85,7 @@
           <mxGeometry x="100" y="780" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QKQKXbVi0BwzhX8_PWDm-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="524.5" y="760" width="95.5" height="160" as="geometry" />
+          <mxGeometry x="480" y="760" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="QKQKXbVi0BwzhX8_PWDm-7" value="数据堆" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="390" y="780" width="60" height="30" as="geometry" />
@@ -118,7 +118,7 @@
           <mxGeometry x="550" y="1112.5" width="50" height="25" as="geometry" />
         </mxCell>
         <mxCell id="AqKgQ2D0N7JEStCCrNbU-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="830" width="40" height="30" as="geometry" />
+          <mxGeometry x="510" y="780" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
