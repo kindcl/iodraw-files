@@ -171,7 +171,7 @@
         <mxCell id="AqKgQ2D0N7JEStCCrNbU-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="188.75" y="1132.5" width="37.75" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="AqKgQ2D0N7JEStCCrNbU-24" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="AqKgQ2D0N7JEStCCrNbU-24" value="类方法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="810" y="860" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
