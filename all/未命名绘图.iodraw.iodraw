@@ -126,8 +126,8 @@
         <mxCell id="aQI2soACkegQ4BIpRU2l-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="aQI2soACkegQ4BIpRU2l-7" target="aQI2soACkegQ4BIpRU2l-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AqKgQ2D0N7JEStCCrNbU-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="1070" width="60" height="30" as="geometry" />
+        <mxCell id="AqKgQ2D0N7JEStCCrNbU-1" value="方法区：档案室" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1070" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
